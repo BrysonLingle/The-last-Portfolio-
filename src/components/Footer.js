@@ -1,5 +1,8 @@
+import '../App.css'
+import '../App.js'
+
 function Footer(props) {
-    return <h1>Footer</h1>;
+    return ;
   }
   
   export default Footer;

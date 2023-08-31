@@ -1,15 +1,15 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Trivia Game",
+    "live": "https://brysonlingle.github.io/Trivia-game/",
+    "git": "https://github.com/BrysonLingle/Trivia-game",
+    "image": "https://i.imgur.com/VOeuuAG.png"
   },
   {
-    "name": "project2",
+    "name": "ExploreEz",
     "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "git": "https://github.com/humayuntariq98/ExploreEZ",
+    "image": "https://i.imgur.com/X0tT2FP.png"
   }
 ]
 

@@ -1,5 +1,5 @@
 import "./App.css";
-
+import React from "react";
 // IMPORT COMPONENTS
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -24,6 +24,11 @@ function App() {
     </div>
   );
 }
+
+
+
+
+
 
 export default App;
 
